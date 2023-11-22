@@ -1,0 +1,8 @@
+.navbar:hover {
+  background-color: #ffb037;
+}
+
+a:hover {
+  background-color: var(--bs-danger);
+}
+
